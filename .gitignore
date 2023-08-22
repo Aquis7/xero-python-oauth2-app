@@ -137,3 +137,6 @@ config.py
 
 # IDE specific
 .vscode
+
+# config.py
+config.py
